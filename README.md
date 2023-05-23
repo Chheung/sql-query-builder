@@ -1,1 +1,1 @@
-# sql-query-builder
+# Simple query builder for personal usage :)
