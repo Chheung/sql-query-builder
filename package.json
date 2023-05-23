@@ -1,5 +1,5 @@
 {
-  "name": "sql-query-builder",
+  "name": "@chienchheung/sql-query-builder",
   "version": "1.0.0",
   "description": "Simple query builder for personal usage :)",
   "main": "lib/index.js",
